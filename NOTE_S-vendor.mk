@@ -225,11 +225,8 @@ PRODUCT_COPY_FILES += \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcamdrv.so:system/lib/libcamdrv.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcamdrv_FrmB.so:system/lib/libcamdrv_FrmB.so \
-	vendor/CUBOT/NOTE_S/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-	vendor/CUBOT/NOTE_S/proprietary/lib/libcamera2ndk.so:system/lib/libcamera2ndk.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
-    vendor/CUBOT/NOTE_S/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcomutils.so:system/lib/libcomutils.so \
     vendor/CUBOT/NOTE_S/proprietary/lib/libcurl.so:system/lib/libcurl.so \
